@@ -1,0 +1,29 @@
+﻿Group A,,,,,Group E,,,
+man_city,England,Man City,2027,,leipzig,Germany,Leipzig,1796
+liverpool,England,Liverpool,2008,,benfica,Portugal,Benfica,1791
+real_madrid,Spain,Real Madrid,1991,,juventus,Italy,Juventus,1788
+bayern,Germany,Bayern,1974,,sporting_cp,Portugal,Sporting CP,1764
+Sum of Variances of Elo Ratings = ,,,387.5,,Sum of Variances of Elo Ratings = ,,,151.6875
+,,,,,,,,
+Group B,,,,,Group F,,,
+ajax,Netherlands,Ajax,1885,,leverkusen,Germany,Leverkusen,1756
+chelsea,England,Chelsea,1882,,salzburg,Austria,Salzburg,1744
+barcelona,Spain,Barcelona,1881,,marseille,France,Marseille,1727
+paris,France,Paris,1878,,frankfurt,Germany,Frankfurt,1725
+Sum of Variances of Elo Ratings = ,,,6.25,,Sum of Variances of Elo Ratings = ,,,162.5
+,,,,,,,,
+Group C,,,,,Group G,,,
+tottenham,England,Tottenham,1878,,rangers,Scotland,Rangers,1723
+inter,Italy,Inter,1872,,dinamo_zagreb,Croatia,Dinamo Zagreb,1672
+atletico,Spain,Atletico,1863,,celtic,Scotland,Celtic,1643
+porto,Portugal,Porto,1846,,shakhtar,Ukraine,Shakhtar Donetsk,1638
+Sum of Variances of Elo Ratings = ,,,145.6875,,Sum of Variances of Elo Ratings = ,,,1140.5
+,,,,,,,,
+Group D,,,,,Group H,,,
+milan,Italy,Milan,1839,,club_brugge,Belgium,Club Brugge,1622
+napoli,Italy,Napoli,1816,,plzen,Czechia,Plzeň,1621
+sevilla,Spain,Sevilla,1811,,maccabi_haifa,Israel,M. Haifa,1597
+dortmund,Germany,Dortmund,1803,,copenhagen,Denmark,Copenhagen,1587
+Sum of Variances of Elo Ratings = ,,,179.1875,,Sum of Variances of Elo Ratings = ,,,230.1875
+,,,,,,,,
+Sum of Variances of Elo Ratings Across all Groups = ,,,,,,,2403.5,

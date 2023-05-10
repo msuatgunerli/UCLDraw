@@ -1,0 +1,33 @@
+﻿Rank,ID,Country,Club,Elo,Coeff,Pot
+1,man_city,England,Man City,2027,134,1
+2,liverpool,England,Liverpool,2008,134,2
+3,real_madrid,Spain,Real Madrid,1991,124,1
+4,bayern,Germany,Bayern,1974,138,1
+5,ajax,Netherlands,Ajax,1885,82.5,1
+6,chelsea,England,Chelsea,1882,123,2
+7,barcelona,Spain,Barcelona,1881,114,2
+8,paris,France,Paris,1878,112,1
+9,tottenham,England,Tottenham,1878,83,2
+10,inter,Italy,Inter,1872,67,3
+11,atletico,Spain,Atletico,1863,105,2
+12,porto,Portugal,Porto,1846,80,1
+13,milan,Italy,Milan,1839,38,1
+14,napoli,Italy,Napoli,1816,66,3
+15,sevilla,Spain,Sevilla,1811,91,2
+16,dortmund,Germany,Dortmund,1803,78,3
+17,leipzig,Germany,Leipzig,1796,83,2
+18,benfica,Portugal,Benfica,1791,61,3
+19,juventus,Italy,Juventus,1788,107,2
+20,sporting_cp,Portugal,Sporting CP,1764,55,3
+21,leverkusen,Germany,Leverkusen,1756,53,3
+22,salzburg,Austria,Salzburg,1744,71,3
+23,marseille,France,Marseille,1727,44,4
+24,frankfurt,Germany,Frankfurt,1725,61,1
+25,rangers,Scotland,Rangers,1723,50.25,4
+26,dinamo_zagreb,Croatia,Dinamo Zagreb,1672,49.5,4
+27,celtic,Scotland,Celtic,1643,33,4
+28,shakhtar,Ukraine,Shakhtar Donetsk,1638,71,3
+29,club_brugge,Belgium,Club Brugge,1622,38.5,4
+30,plzen,Czechia,Plzeň,1621,31,4
+31,maccabi_haifa,Israel,M. Haifa,1597,7,4
+32,copenhagen,Denmark,Copenhagen,1587,40.5,4
